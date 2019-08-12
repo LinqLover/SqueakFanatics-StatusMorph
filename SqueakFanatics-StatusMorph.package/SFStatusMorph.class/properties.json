@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"stepsAnimationVisible",
 		"morphs",
 		"durations",
 		"currentState" ],

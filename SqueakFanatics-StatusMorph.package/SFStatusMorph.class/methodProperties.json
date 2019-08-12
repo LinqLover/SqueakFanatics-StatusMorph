@@ -9,7 +9,5 @@
 		"atState:putMorph:" : "ct 8/12/2019 23:16",
 		"display:" : "ct 8/12/2019 23:27",
 		"displayDefault" : "ct 8/12/2019 23:18",
-		"initialize" : "ct 8/12/2019 23:15",
-		"postInitialize" : "ct 8/12/2019 23:16",
-		"step" : "ct 8/12/2019 22:47",
-		"stepTime" : "ct 8/12/2019 22:25" } }
+		"initialize" : "ct 8/12/2019 23:33",
+		"postInitialize" : "ct 8/12/2019 23:16" } }

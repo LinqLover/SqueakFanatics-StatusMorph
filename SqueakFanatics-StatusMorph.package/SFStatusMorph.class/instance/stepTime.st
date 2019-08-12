@@ -1,4 +1,0 @@
-state
-stepTime
-
-	^ 20
