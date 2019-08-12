@@ -1,0 +1,4 @@
+*SqueakFanatics-StatusMorph
+delays
+
+	^ delays

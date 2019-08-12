@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"addMorph:" : "ct 8/12/2019 22:37",
+		"display:" : "ct 8/12/2019 23:11",
+		"initialize" : "ct 8/12/2019 22:30",
+		"reset" : "ct 8/12/2019 23:31" },
+	"instance" : {
+		"atState:putAnimatedMorph:" : "ct 8/12/2019 23:16",
+		"atState:putMorph:" : "ct 8/12/2019 23:16",
+		"display:" : "ct 8/12/2019 23:27",
+		"displayDefault" : "ct 8/12/2019 23:18",
+		"initialize" : "ct 8/12/2019 23:15",
+		"postInitialize" : "ct 8/12/2019 23:16",
+		"step" : "ct 8/12/2019 22:47",
+		"stepTime" : "ct 8/12/2019 22:25" } }

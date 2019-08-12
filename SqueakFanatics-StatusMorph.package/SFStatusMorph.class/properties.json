@@ -1,0 +1,17 @@
+{
+	"category" : "SqueakFanatics-StatusMorph",
+	"classinstvars" : [
+		"morphs" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stepsAnimationVisible",
+		"morphs",
+		"durations",
+		"currentState" ],
+	"name" : "SFStatusMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
