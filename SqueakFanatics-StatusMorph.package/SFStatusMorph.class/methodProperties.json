@@ -6,6 +6,7 @@
 		"initialize" : "ct 8/12/2019 22:30",
 		"reset" : "ct 8/12/2019 23:31" },
 	"instance" : {
+		"addCustomMenuItems:hand:" : "ct 9/14/2019 00:42",
 		"atState:putAnimatedMorph:" : "ct 8/12/2019 23:16",
 		"atState:putMorph:" : "ct 8/12/2019 23:16",
 		"display:" : "ct 8/12/2019 23:27",
